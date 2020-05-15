@@ -1,4 +1,3 @@
-# PS01
 import { print, promptNumber, promptString } from "introcs";
 export let main = async () => {
     // TODO: Put all of your code here
